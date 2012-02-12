@@ -6,3 +6,6 @@
 **Previous changes not listed at the time**
 * Added .gitignore
 * Fixed lockscreen being disabled causing statusbar FCs **Since fixed in CM source**.
+
+### 02/12/2012
+* Synced with CyanogenMod source; see commits: [Notification power widget, data](https://github.com/CyanogenMod/android_frameworks_base/commit/f3e43ec1bba9a48ddcc4c36c34b3f20ec5d3ee02), [Fix screen wake for car mode](https://github.com/CyanogenMod/android_frameworks_base/commit/3836ca19dba4dead4584fd47dd8b8dacba2b90b0)
