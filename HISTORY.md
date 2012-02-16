@@ -9,3 +9,6 @@
 
 ### 02/12/2012
 * Synced with CyanogenMod source; see commits: [Notification power widget, data](https://github.com/CyanogenMod/android_frameworks_base/commit/f3e43ec1bba9a48ddcc4c36c34b3f20ec5d3ee02), [Fix screen wake for car mode](https://github.com/CyanogenMod/android_frameworks_base/commit/3836ca19dba4dead4584fd47dd8b8dacba2b90b0)
+
+### 02/15/2012
+* Synced with CyanogenMod source: see [commits list](https://github.com/IngCr3at1on/android_frameworks_base/compare/16b6168906...0fac19adf9)
