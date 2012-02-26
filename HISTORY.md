@@ -18,3 +18,6 @@
 
 ### 02/22/2012
 * Enabled full 180 degree rotation; I would like to make this only enabled if cm_default_is_tablet is set to true but for the life of me I can't figure out how to reference the resource file for that.
+
+### 02/26/2012
+* Sync with CyanogenMod source; see [full commit comparison](https://github.com/IngCr3at1on/android_frameworks_base/compare/e1f85bb411...fca50b9a30)
