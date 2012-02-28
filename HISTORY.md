@@ -17,7 +17,10 @@
 * Synced with CyanogenMod source: see [CM commit list](https://github.com/CyanogenMod/android_frameworks_base/commit/5eeec666b0b3fb03f27ae00d967a63bebd55d214)
 
 ### 02/22/2012
-* Enabled full 180 degree rotation; I would like to make this only enabled if cm_default_is_tablet is set to true but for the life of me I can't figure out how to reference the resource file for that.
+* Enabled full 180 degree rotation: I would like to make this only enabled if cm_default_is_tablet is set to true but for the life of me I can't figure out how to reference the resource file for that.
 
 ### 02/26/2012
-* Sync with CyanogenMod source; see [full commit comparison](https://github.com/IngCr3at1on/android_frameworks_base/compare/e1f85bb411...fca50b9a30)
+* Sync with CyanogenMod source: see [full commit comparison](https://github.com/IngCr3at1on/android_frameworks_base/compare/e1f85bb411...fca50b9a30)
+
+### 02/28/2012
+* Synced with CyanogenMod source: merge fix for fingerprint unlock, see [commit diff](https://github.com/CyanogenMod/android_frameworks_base/commit/87b1801966418e7d244add9af7813dc7b1553198)
