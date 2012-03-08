@@ -24,3 +24,6 @@
 
 ### 02/28/2012
 * Synced with CyanogenMod source: merge fix for fingerprint unlock, see [commit diff](https://github.com/CyanogenMod/android_frameworks_base/commit/87b1801966418e7d244add9af7813dc7b1553198)
+
+### 02/07/2012
+* Synced with CyanogenMod source: see complete [commit diff](https://github.com/IngCr3at1on/android_frameworks_base/commit/ea4b47d783528b2e68a0738363b6bf0a7baaa12b)
