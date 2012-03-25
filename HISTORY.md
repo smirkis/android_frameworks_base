@@ -30,3 +30,6 @@
 
 ### 03/13/2012
 * Synced with CyanogenMod source: see complete [commit diff](https://github.com/IngCr3at1on/android_frameworks_base/commit/cd011220d6da819ca6f1c5dc09bb50e9e0d82f7a)
+
+### 03/25/2012
+* Synced with CyanogenMod source: see complete [commit diff](https://github.com/IngCr3at1on/android_frameworks_base/commit/be63d1d36dcae78953011316b3ab78bc5b5fb9d5)
